@@ -146,7 +146,7 @@ li{
 
 }
 
-/* codice regalo */
+/* copy code */
 
 li .circle::before {
     display: inline-block;
@@ -170,3 +170,5 @@ li .circle.delete::before {
     border: 1px solid #ff0000;
     color: #ff0000;
 }
+
+/* Esercizio finito*/
