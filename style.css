@@ -85,6 +85,7 @@ nav{
     padding-top: 50px;
     padding-left: 40px;
     margin: auto;
+    padding-bottom: 10px;
 }
 
 .local{
@@ -125,6 +126,11 @@ nav{
    font-family: Arial, Helvetica, sans-serif;
    font-size: 20px;
    font-weight: 600;
+   list-style-type: none;
+}
+
+.simbol{
+    font-size: 10px;
 }
 
 .secondary{
@@ -132,8 +138,10 @@ nav{
     font-weight: normal;
     font-size: 18px;
     margin: 10px;
+    list-style-type: none;
 }
 
 li{
     margin: 10px;
+
 }
