@@ -7,3 +7,17 @@
 body{
     background-color: rgb(112, 201, 112);
 }
+
+h1{
+    font-size: 40px;
+    display: inline; 
+}
+
+
+/*Intestazione*/
+
+header{
+    height: 60px;
+    background-color: white;
+    padding-left: 10px;
+}
