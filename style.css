@@ -21,3 +21,10 @@ header{
     background-color: white;
     padding-left: 10px;
 }
+
+/*Contenitore*/
+
+.contenitore{
+    background-color: white;
+    margin: 10px auto;
+}
