@@ -85,10 +85,34 @@ nav{
     margin: auto;
 }
 
-.editorial{
-    background-color: rgb(24, 183, 246);
+.local{
     color: white;
     font-size: 12px;
-    border-radius: 1px;
-    padding: 2px 4px;
+    border-radius: 10px;
+    padding: 3px 5px;
 }
+
+.editorial{
+    background-color: rgb(24, 183, 246);
+}
+
+.goals{
+    background-color: rgb(165, 108, 217);
+}
+
+.recruitin{
+    background-color: rgb(75, 201, 140);
+}
+
+.mobile{
+    background-color: rgb(239, 155, 76);
+}
+
+.website{
+    background-color: rgb(238, 129, 242);
+}
+
+.sales{
+    background-color: yellowgreen;
+}
+    
