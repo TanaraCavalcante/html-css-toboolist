@@ -9,8 +9,11 @@ body{
 }
 
 h1{
-    font-size: 40px;
-    display: inline; 
+    
+}
+
+.blue{
+    background-color: rgb(57, 149, 220);
 }
 
 
@@ -22,9 +25,32 @@ header{
     padding-left: 10px;
 }
 
+.logo{
+    margin: 5px;
+}
+
+.logotext{
+    font-size: 30px;
+    font-weight: bolder;
+    display: inline-block;
+    height: 90px;
+    vertical-align: middle;
+}
+
 /*Contenitore*/
 
 .contenitore{
     background-color: white;
     margin: 10px auto;
+    width: 900px;    
+}
+
+nav{
+    height: 40px;
+    line-height: 40px;
+}
+
+.box{
+    padding: 2px 10px;
+    vertical-align: middle;
 }
